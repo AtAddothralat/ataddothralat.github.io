@@ -1,9 +1,10 @@
 body {
     width:100dvw;
     height:100dvh;
+    margin:0px;
 }
 .main {
-    background-image:url(oldtown2.png);
+    background-image:url('oldtown2.png');
     margin:0 auto;
     position:absolute;
     left:0;
