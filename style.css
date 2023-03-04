@@ -7,4 +7,5 @@ body {
     background-image:url('oldtown2.png');
     width:100dvw;
     height:80dvw;
+    background-repeat: no-repeat;
 }
