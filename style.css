@@ -1,9 +1,11 @@
 body {
     height:100dvh;
+    height:100vh;
     margin:0px;
 }
 .main {
     background-image:url('oldtown2.png');
     height:60dvw;
+    height:60vw;
     background-repeat: no-repeat;
 }
