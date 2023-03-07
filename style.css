@@ -2,7 +2,7 @@ body {
     height:100dvh;
     height:100vh;
     margin:0px;
-    font-family:'Product Sans Bold', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family:'Product Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .main {
     background-image:url('oldtown2.png');
