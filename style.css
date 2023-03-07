@@ -41,7 +41,8 @@ h1 {
 }
 .actions {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
+    gap:5rem;
 }
 .btn-primary {
     padding:1rem;
