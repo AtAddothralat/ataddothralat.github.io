@@ -36,3 +36,6 @@ body {
     justify-content: center;
     flex-direction: column;
 }
+h1 {
+    font-size:45pt;
+}
