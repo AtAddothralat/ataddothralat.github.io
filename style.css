@@ -39,3 +39,14 @@ body {
 h1 {
     font-size:45pt;
 }
+.actions {
+    display: flex;
+    justify-content: space-between;
+}
+.btn-primary {
+    padding:1rem;
+    background-color: coral;
+    color:#fff;
+    text-decoration: none;
+    border-radius:2rem;
+}
