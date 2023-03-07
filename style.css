@@ -24,8 +24,8 @@ body {
 }
 .logo-border {
     background:linear-gradient(to right, #74a9e7, #e89d56);
-    height: 135px !important;;
-    width: 135px !important;;
+    height: 135px !important;
+    width: 135px !important;
     background-position: center;
     background-size:cover;
     background-repeat: no-repeat;
