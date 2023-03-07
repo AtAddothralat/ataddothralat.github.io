@@ -3,6 +3,8 @@ body {
     height:100vh;
     margin:0px;
     font-family:'Product Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 .main {
     background-image:url('oldtown2.png');
@@ -50,4 +52,10 @@ h1 {
     color:#fff;
     text-decoration: none;
     border-radius:2rem;
+}
+.aside {
+    background-image: url('penyal.png');
+    height:100%;
+    width:100%;
+
 }
