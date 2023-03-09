@@ -3,6 +3,8 @@ body {
     height:100vh;
     margin:0px;
     font-family:'Product Sans', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
 }
 .main {
     background-image:url('oldtown2.png');
